@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Sou Gabriel Pacheco, engenheiro civil apaixonado por tecnologia e programação. Atualmente, estou explorando o universo do desenvolvimento front-end com foco em HTML5, CSS3 e JavaScript. Sempre buscando aprender e criar soluções que unam engenharia e tecnologia!</p>
+<p align="left">Olá! Sou Gabriel Pacheco, engenheiro civil apaixonado por tecnologia e programação. Atualmente, estou explorando o universo do desenvolvimento front-end com foco em HTML5, CSS3 e JavaScript. Sempre buscando aprender!</p>
 
 ###
 
